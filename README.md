@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dem0ncode
+- 👋 Hi, I’m @Damian
 - 👀 I’m interested in C++,Python programming!
-- 🌱 I’m currently learning Data science and DSA!
+- 🌱 I’m currently learning Full Stack Web Development!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
