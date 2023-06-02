@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Damian
-- 👀 I’m interested in C++,Python programming!
-- 🌱 I’m currently learning Full Stack Web Development!
+- 👀 I’m interested in Full Stack Web Development - MERN !
+- 🌱 I’m currently learning HTML,CSS,Javascript!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
